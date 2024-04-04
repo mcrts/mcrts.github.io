@@ -1,0 +1,51 @@
+title = "Martin Courtois"
+baseURL = "https://mcrts.github.io"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = false          # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""  # add your tracking id
+
+[params]
+  author = "Martin Courtois"
+  description = "A simple monospaced resume theme for Hugo."
+  favicon = "leaf.png"  # path to a .ico to use as favicon
+  logo = ""  # url or path to a logo to put in the header
+  [params.footer]
+    text = "By Martin Courtois"
+    url = "https://github.com/mcrts/mcrts.github.io"
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    fontSize = "14pt"
+    pageWidth = "750px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed = "#dc3545"
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "E-mail"
+    url = "mailto:martin.courtois@protonmail.com"
+  [[params.socialIcons]]
+    icon = "fa-brands fa-github"
+    title = "Github"
+    url = "https://www.github.com/mcrts/"
+  [[params.socialIcons]]
+    icon = "fa-brands fa-linkedin-in"
+    title = "LinkedIn"
+    url = "https://www.linkedin.com/in/mcrts/"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
