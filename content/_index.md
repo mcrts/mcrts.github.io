@@ -20,7 +20,7 @@ I am interrested in all things machine learning and their applications to natura
 ## Publications
 
 Under review:
-1.  Courtois, M., Ostendorff, M., Hennig, L., & Rehm, G. **Symmetric Dot-Product Attention for Efficient Training of BERT Language Models**<span> </span><a href="/files/Symmetric_Dot_Product_Attention_for_Efficient_Training_of_BERT_Language_Models.pdf" class="fa-solid fa-file-pdf fa-1x" title="Download PDF"></a><span> </span><a href="https://openreview.net/forum?id=ewQlC1ZpWi" title="Open Review">OpenReview</a>
+1.  Courtois, M., Ostendorff, M., Hennig, L., & Rehm, G. **Symmetric Dot-Product Attention for Efficient Training of BERT Language Models**<span> </span><a href="/files/ACL_2024___Symmetric_Dot_Product_Attention_for_Efficient_Training_of_BERT_Language_Models.pdf" class="fa-solid fa-file-pdf fa-1x" title="Download PDF"></a><span> </span><a href="https://openreview.net/forum?id=ewQlC1ZpWi" title="Open Review">OpenReview</a>
 
 In chronological order:
 1. Courtois, M., Filiot, A., & Ficheur, G. **Distribution-Based Similarity Measures Applied to Laboratory Results Matching**. In Applying the FAIR Principles to Accelerate Health Research in Europe in the Post COVID-19 Era (pp. 94-98). IOS Press (2021). <a href="https://ebooks.iospress.nl/pdf/doi/10.3233/SHTI210823" class="fa-solid fa-file-pdf fa-1x" title="Download PDF"></a><span> </span><a href="https://pubmed.ncbi.nlm.nih.gov/34795089/" title="PubMed">PubMed</a>
