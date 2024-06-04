@@ -12,7 +12,7 @@ Hi, I'm Martin, a researcher in the field of natural language processing at the 
 
 I study the inner workings of deep learning models, I am trying to answer questions like "What's attention ?" and hopefully improve model efficiency.
 I am interrested in all things machine learning and their applications to natural language processing:
-* Probabilistic Modelling
+* Probabilistic Modeling
 * Energy-Based Models
 * Natural Language Processing
 * Information Retrieval
